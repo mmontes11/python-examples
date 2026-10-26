@@ -1,4 +1,4 @@
-# python-examples
+# 🐍 python-examples
 
 Miscellaneous Python examples for learning purposes. All of them share a single [uv](https://docs.astral.sh/uv/) project and virtualenv.
 
